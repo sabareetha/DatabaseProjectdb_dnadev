@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GroN+x9hXgGqlYsxatJFmOXaAOAGQgDjl3ibg4VUp//Girj0ZDJDCny3DrxwdXgiPNdQZT7JCQck8xXImRtVOQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\sabareetha_m\\OneDrive - Prelude Systems Inc\\SabareethaMP\\Devops\\DNADB\\DatabaseProjectdb_dnadev\\DatabaseProjectdb_dnadev.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabareetha_m\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\sabareetha_m\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

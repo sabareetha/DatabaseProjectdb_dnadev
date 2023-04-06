@@ -1,0 +1,10 @@
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\bin\Debug\DatabaseProjectdb_dnadev.dacpac
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\bin\Debug\DatabaseProjectdb_dnadev.dll
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\bin\Debug\DatabaseProjectdb_dnadev.pdb
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\DatabaseProjectdb_dnadev.sqlproj.AssemblyReference.cache
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\Model.xml
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\refactor.xml
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\postdeploy.sql
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\predeploy.sql
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\DatabaseProjectdb_dnadev.dll
+c:\Users\sabareetha_m\OneDrive - Prelude Systems Inc\SabareethaMP\Devops\DNADB\DatabaseProjectdb_dnadev\obj\Debug\DatabaseProjectdb_dnadev.pdb
